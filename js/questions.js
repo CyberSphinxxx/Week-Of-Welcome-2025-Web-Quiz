@@ -532,18 +532,6 @@ const quizData = {
       hint: "They open-sourced it in 2015"
     },
     {
-      question: "What is the main advantage of using a CDN?",
-      type: "multiple",
-      options: [
-        "a) Reduced latency",
-        "b) Better security",
-        "c) Lower costs",
-        "d) Easier deployment"
-      ],
-      answer: "a",
-      hint: "Content is served from locations closer to users"
-    },
-    {
       question: "Which design pattern is used to create objects without specifying their exact class?",
       type: "multiple",
       options: [
