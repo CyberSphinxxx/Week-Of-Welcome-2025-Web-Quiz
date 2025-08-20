@@ -555,11 +555,5 @@ const quizData = {
       answer: "a",
       hint: "They package applications with their dependencies"
     },
-    {
-      question: "Event-driven architecture is always better than request-response architecture.",
-      type: "boolean",
-      answer: "false",
-      hint: "Each has its own use cases and trade-offs"
-    }
   ],
 };
